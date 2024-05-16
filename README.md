@@ -223,7 +223,4 @@ https://youtu.be/oJlCC1DutbA?si=YGu97jebR4V9h_Hb
 </br>
 </br>
 
-```
-gd
-```
 
