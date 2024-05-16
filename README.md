@@ -37,6 +37,7 @@ https://youtu.be/oJlCC1DutbA?si=YGu97jebR4V9h_Hb
  
 <h3> 🌳 디렉토리 및 파일의 tree 구조는 아래와 같습니다: </h3>
 
+<pre><code>
 └── src</br>
     ├── ch01_Java  
     │   ├── _01_JavaBasic.java  
@@ -216,7 +217,8 @@ https://youtu.be/oJlCC1DutbA?si=YGu97jebR4V9h_Hb
         ├── _22_StreamOperator5.java      
         ├── _23_StreamOperator6.java      
         ├── _24_Partitioning.java      
-        └── _25_Grouping.java      
+        └── _25_Grouping.java   
+</code></pre>
 </br>
 </br>
 
