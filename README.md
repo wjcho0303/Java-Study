@@ -15,20 +15,20 @@ https://youtu.be/oJlCC1DutbA?si=YGu97jebR4V9h_Hb
 - 영상 강의는 2020년도 기준이며, 언어는 Java 8 기준으로 제작되었습니다. </br>  
 - 총 171편의 영상 강의가 있습니다. </br>  
 - 다루는 내용들은 src 하위 디렉토리에 있습니다.  </br>
-  01. Java  </br>
-  02. Variables  </br>
-  03. Operator  </br>
-  04. If and Repeat  </br>
-  05. Array And String  </br>
-  06. OOP 1  </br>
-  07. OOP 2  </br>
-  08. Exceptions  </br>
-  09. Useful Packages  </br>
-  10. Data and Time Format  </br>
-  11. Collection Framework  </br>
-  12. Generics, Enum, and Annotation </br> 
-  13. Thread  </br>
-  14. Lambda and Stream  </br>
+##01. Java  </br>
+##02. Variables  </br>
+##03. Operator  </br>
+##04. If and Repeat  </br>
+##05. Array And String  </br>
+##06. OOP 1  </br>
+##07. OOP 2  </br>
+##08. Exceptions  </br>
+##09. Useful Packages  </br>
+##10. Data and Time Format  </br>
+##11. Collection Framework  </br>
+##12. Generics, Enum, and Annotation </br> 
+##13. Thread  </br>
+##14. Lambda and Stream  </br>
 
 </br>
 </br>  
